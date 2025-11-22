@@ -14,7 +14,7 @@
 ---
 include:
   - board: nice_nano
-    shield: settings_reset
+    shield: corne_left
     snippet: studio-rpc-usb-uart
-  - board: nice_nano
+  - board: corne_right
     shield: settings_reset
