@@ -2,6 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
+    - name: new_corne
+      url-base: https://github.com/a741725193/zmk-new_corne
   projects:
     - name: zmk
       remote: zmkfirmware
